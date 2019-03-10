@@ -1,4 +1,6 @@
 
+[![CircleCI](https://circleci.com/gh/yuta-ron/kujira.svg?style=svg)](https://circleci.com/gh/yuta-ron/kujira)
+
 #### Slackに投稿してくれるやつ
 
 #### やること
