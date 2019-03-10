@@ -1,8 +1,8 @@
-version: "3.4"
+version: "3.2"
 services:
   web:
       build: .
-      
+
       environment:
         SLACK_ENTRYPOINT: ${SLACK_ENTRYPOINT}
         TARGET_CHANNEL: ${TARGET_CHANNEL}
