@@ -1,0 +1,20 @@
+{
+  "name": "kujira",
+  "version": "1.0.0",
+  "description": "kichigai",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/yuta-ron/kujira.git",
+  "author": "yutaron",
+  "license": "MIT",
+  "scripts": {
+    "post": "node index.js",
+    "test": "yarn mocha test.js"
+  },
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2",
+    "should": "^13.2.3"
+  }
+}
